@@ -1,0 +1,8 @@
+{
+  "id": "prof-ana", "nome": "Ana", "especialidades": ["DIRETOR"],
+  "valorMinimo": 5000, "valorMaximo": 15000,
+  "localizacao": { "cidade": "São Paulo", "uf": "SP", "pais": "Brasil" },
+  "competencias": [{ "nome": "Direção", "nivel": 0.9 }],
+  "avaliacoes": [{ "nota": 5 }],
+  "disponibilidades": [{ "inicio": "2026-01-01", "fim": "2099-12-31" }]
+}

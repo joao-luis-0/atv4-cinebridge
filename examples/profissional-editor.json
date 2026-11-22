@@ -1,0 +1,6 @@
+{
+  "id": "prof-bruno", "nome": "Bruno", "especialidades": ["EDITOR"],
+  "valorMinimo": 3000, "valorMaximo": 10000,
+  "localizacao": { "cidade": "São Paulo", "uf": "SP", "pais": "Brasil" },
+  "competencias": [{ "nome": "Edição", "nivel": 0.8 }], "avaliacoes": [{ "nota": 4 }]
+}

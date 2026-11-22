@@ -1,0 +1,9 @@
+{
+  "projeto": {
+    "nome": "Curta Cinebridge ATVIV", "genero": "Drama", "duracaoEstimadaMinutos": 30,
+    "orcamentoTotal": 20000, "dataEntrega": "2099-12-01", "tipoCaptacao": "FICCAO",
+    "localizacaoFilmagem": { "cidade": "São Paulo", "uf": "SP", "pais": "Brasil" },
+    "papeisObrigatorios": [{ "papel": "DIRETOR", "peso": 0.6 }, { "papel": "EDITOR", "peso": 0.4 }]
+  },
+  "estrategia": "FILTRAGEM_COLABORATIVA"
+}

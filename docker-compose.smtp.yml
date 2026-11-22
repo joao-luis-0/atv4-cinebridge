@@ -1,0 +1,10 @@
+# Opcional: libera saída do serviço de notificações para um SMTP externo.
+# docker compose -f docker-compose.yml -f docker-compose.smtp.yml up -d --build
+services:
+  cinebridge-notificacoes:
+    networks:
+      - cinebridge-net
+      - smtp-egress
+networks:
+  smtp-egress:
+    driver: bridge
